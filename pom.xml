@@ -27,6 +27,7 @@
             <version>7.8.0</version>
         </dependency>
         <!-- elasticsearch 依赖 2.x 的 log4j -->
+
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-api</artifactId>
