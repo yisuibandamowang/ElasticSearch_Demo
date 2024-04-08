@@ -227,6 +227,5 @@ public class ESTest_Doc_Query {
 
         //关闭客户端
         esClient.close();
-
     }
 }
